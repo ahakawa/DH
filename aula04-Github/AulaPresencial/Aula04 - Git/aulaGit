@@ -1,0 +1,1902 @@
+
+roseo@ROSE-DELLNOVO MINGW64 ~
+$ pwd
+/c/Users/roseo
+
+roseo@ROSE-DELLNOVO MINGW64 ~
+$
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~
+$
+gi
+roseo@ROSE-DELLNOVO MINGW64 ~
+$ git log
+fatal: not a git repository (or any of the parent directories): .git
+
+roseo@ROSE-DELLNOVO MINGW64 ~
+$ ls
+'3D Objects'/
+'Ambiente de Impressão'@
+'Ambiente de Rede'@
+ AppData/
+ Apple/
+'Application Data'/
+'Configurações Locais'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+'Dados de Aplicativos'@
+ Desktop/
+ djangoGirls/
+ Documents/
+ Downloads/
+ Evernote/
+ Favorites/
+ IntelGraphicsProfiles/
+ Links/
+'Menu Iniciar'@
+'Meus Documentos'@
+ MicrosoftEdgeBackups/
+ Modelos@
+ Music/
+ node_modules/
+ NTUSER.DAT
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ NTUSER.DAT{372894c7-4285-11e9-bfe9-9198b44a0628}.TM.blf
+ NTUSER.DAT{372894c7-4285-11e9-bfe9-9198b44a0628}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{372894c7-4285-11e9-bfe9-9198b44a0628}.TMContainer00000000000000000002.regtrans-ms
+ ntuser.ini
+ OneDrive/
+ package-lock.json
+ Pictures/
+ Postman/
+ PycharmProjects/
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+
+roseo@ROSE-DELLNOVO MINGW64 ~
+$ cd Desktop/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop
+$ ls
+ ActionBot                                       'Ké Rango'/
+ ActionCryptoBOT.lnk*                            'Microsoft Edge.lnk'*
+ ActionCryptoSignals.lnk*                         multa.jpg
+ ahakawa.github.io/                               Omnistack9/
+ answer.json                                      OpenMarket/
+ bookmarks-2019-12-27.json                        Postman.lnk*
+ bookmarks-27-12-19.html                          Putzzz/
+ cesarCript.html.js                               Py/
+ cesarCript.js                                   'Rocketseat Launchbase'/
+ criptografia.html                                Rose/
+ CURSOJS/                                         Screenshot_1.png
+ desktop.ini                                      Slack.lnk*
+ DH/                                              SMITE.url
+ Discord.lnk*                                     style.css
+ ec2-34-207-217-214.compute-1.amazonaws.com.rdp   superheroes.json
+ FCC/                                             Trybe/
+ FrontendMasters/                                 WomakersCode/
+ heroes.html                                     'xampp-control - Atalho.lnk'*
+ Itaú.lnk*                                        Zoom.lnk*
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop
+$ cd DH
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ ls
+AulaGithub/  Javascript/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ cd AulaGithub/
+l
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls
+DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -lha
+total 8,0K
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:15 ./
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ../
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ ls -lha
+total 14K
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:16 ./
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:15 ../
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:19 .git/
+-rw-r--r-- 1 roseo 197609   0 fev  3 10:16 app.js
+-rw-r--r-- 1 roseo 197609 222 fev  3 10:15 arrow.js
+-rw-r--r-- 1 roseo 197609 247 fev  3 10:15 assincronismo.js
+-rw-r--r-- 1 roseo 197609   0 fev  3 10:15 testeGit.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ git log
+commit 35a5a3f1b753446e721b37e9c7ce7e69e4cd65b3 (HEAD -> master, origin/master, commit 35a5a3f1b753446e721b37e9c7ce7e69e4cd65b3 (HEAD -> master, origin/master,
+origin/HEAD)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Mon Feb 3 10:18:13 2020 -0300
+
+    meu primeiro commit
+
+commit 482ab98cd4d9d85d053ac345f747b6c8a2853c0f
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Mon Feb 3 10:03:36 2020 -0300
+
+    adicionando arquivo testeGit.js e modificado arquivo arrow.js
+
+commit c7dba5dc3e642eabad182928a74a6d3df5f90273
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Mon Feb 3 09:28:17 2020 -0300
+
+    modificado arrow.js
+
+commit a26b4a5e2705544f2909ba967753045258ac69b6
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Mon Feb 3 08:53:23 2020 -0300
+
+    Adicionado arquivos javascript
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ git log
+commit 35a5a3f1b753446e721b37e9c7ce7e69e4cd65b3 (HEAD -> master, origin/master, commit 35a5a3f1b753446e721b37e9c7ce7e69e4cd65b3 (HEAD -> master, origin/master,
+commit 35a5a3f1b753446e721b37e9c7ce7e69e4cd65b3 (HEAD -> master, origin/master,
+origin/HEAD)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Mon Feb 3 10:18:13 2020 -0300
+
+    meu primeiro commit
+
+commit 482ab98cd4d9d85d053ac345f747b6c8a2853c0f
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Mon Feb 3 10:03:36 2020 -0300
+
+    adicionando arquivo testeGit.js e modificado arquivo arrow.js
+
+commit c7dba5dc3e642eabad182928a74a6d3df5f90273
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Mon Feb 3 09:28:17 2020 -0300
+
+    modificado arrow.js
+
+commit a26b4a5e2705544f2909ba967753045258ac69b6
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Mon Feb 3 08:53:23 2020 -0300
+
+    Adicionado arquivos javascript
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ git commit --help
+/usr/bin/start: line 8: : command not found
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ git log --help
+/usr/bin/start: line 8: : command not found
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ git help
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone             Clone a repository into a new directory
+   init              Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add               Add file contents to the index
+   mv                Move or rename a file, a directory, or a symlink
+   restore           Restore working tree files
+   rm                Remove files from the working tree and from the index
+   sparse-checkout   Initialize and modify the sparse-checkout
+
+examine the history and state (see also: git help revisions)
+   bisect            Use binary search to find the commit that introduced a bug
+   diff              Show changes between commits, commit and working tree, etc
+   grep              Print lines matching a pattern
+   log               Show commit logs
+   show              Show various types of objects
+   status            Show the working tree status
+
+grow, mark and tweak your common history
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ ls -lha
+total 14K
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:16 ./
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:15 ../
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:19 .git/
+-rw-r--r-- 1 roseo 197609   0 fev  3 10:16 app.js
+-rw-r--r-- 1 roseo 197609 222 fev  3 10:15 arrow.js
+-rw-r--r-- 1 roseo 197609 247 fev  3 10:15 assincronismo.js
+-rw-r--r-- 1 roseo 197609   0 fev  3 10:15 testeGit.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/DH
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ cd ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -la
+total 8
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:15 ./
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ../
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls
+DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -l
+total 4
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -a
+./  ../  DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -la
+total 8
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:15 ./
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ../
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -lha
+total 8,0K
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:15 ./
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ../
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ touch teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -lha
+total 8,0K
+drwxr-xr-x 1 roseo 197609 0 fev  5 14:49 ./
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ../
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+-rw-r--r-- 1 roseo 197609 0 fev  5 14:49 teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ ls
+AulaGithub/  Javascript/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ cd Javascript/
+l
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/Javascript
+$ ls -lah
+total 172K
+drwxr-xr-x 1 roseo 197609    0 fev  3 15:16  ./
+drwxr-xr-x 1 roseo 197609    0 jan 31 22:54  ../
+drwxr-xr-x 1 roseo 197609    0 jan 23 21:54  .vscode/
+-rw-r--r-- 1 roseo 197609  559 jan 28 18:45  arrays-ii.js
+-rw-r--r-- 1 roseo 197609  151 fev  2 22:07  arrow.js
+-rw-r--r-- 1 roseo 197609  247 jan 28 15:42  assincronismo.js
+-rw-r--r-- 1 roseo 197609 113K jan 21 19:39 'Átomos 02 - Tipos de dados.pdf'
+drwxr-xr-x 1 roseo 197609    0 fev  3 18:01  aula3/
+drwxr-xr-x 1 roseo 197609    0 fev  1 11:33  Aulas-virtuais/
+-rw-r--r-- 1 roseo 197609  212 jan 27 11:24  callbacks.js
+-rw-r--r-- 1 roseo 197609  212 jan 28 15:00  closure.js
+-rw-r--r-- 1 roseo 197609  320 jan 27 10:21  convertendo-dados.js
+-rw-r--r-- 1 roseo 197609  327 jan 29 09:01  desestruturacao.js
+-rw-r--r-- 1 roseo 197609  129 jan 28 19:06  for-in.js
+-rw-r--r-- 1 roseo 197609  117 jan 28 19:12  for-of.js
+-rw-r--r-- 1 roseo 197609 1,2K jan 26 18:15  funcao.js
+-rw-r--r-- 1 roseo 197609  423 fev  3 14:44  function.js
+-rw-r--r-- 1 roseo 197609  279 jan 27 01:36  json.js
+-rw-r--r-- 1 roseo 197609  456 jan 26 23:58  loop.js
+-rw-r--r-- 1 roseo 197609  700 jan 27 01:12  loop-while.js
+-rw-r--r-- 1 roseo 197609  423 jan 28 19:38  objeto-date.js
+-rw-r--r-- 1 roseo 197609  502 jan 26 00:10  operacoes.js
+-rw-r--r-- 1 roseo 197609  502 fev  3 14:53  pets.json
+-rw-r--r-- 1 roseo 197609  651 jan 29 09:49  spreadOperator.js
+-rw-r--r-- 1 roseo 197609  731 jan 27 09:14  string.js
+-rw-r--r-- 1 roseo 197609 3,9K jan 30 15:08  test.js
+-rw-r--r-- 1 roseo 197609  900 jan 21 20:43  tiposDeDados.js
+-rw-r--r-- 1 roseo 197609  244 jan 26 19:54  validacoes-if.js
+-rw-r--r-- 1 roseo 197609  341 jan 26 20:47  validacoes-ii.js
+-rw-r--r-- 1 roseo 197609   62 jan 21 19:24  variaveis.js
+-rw-r--r-- 1 roseo 197609  208 jan 21 19:32  variaveis2.js
+-rw-r--r-- 1 roseo 197609   86 jan 21 19:57  variaveisIII.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/Javascript
+$ ls -la
+total 172
+drwxr-xr-x 1 roseo 197609      0 fev  3 15:16  ./
+drwxr-xr-x 1 roseo 197609      0 jan 31 22:54  ../
+drwxr-xr-x 1 roseo 197609      0 jan 23 21:54  .vscode/
+-rw-r--r-- 1 roseo 197609    559 jan 28 18:45  arrays-ii.js
+-rw-r--r-- 1 roseo 197609    151 fev  2 22:07  arrow.js
+-rw-r--r-- 1 roseo 197609    247 jan 28 15:42  assincronismo.js
+-rw-r--r-- 1 roseo 197609 114811 jan 21 19:39 'Átomos 02 - Tipos de dados.pdf'
+drwxr-xr-x 1 roseo 197609      0 fev  3 18:01  aula3/
+drwxr-xr-x 1 roseo 197609      0 fev  1 11:33  Aulas-virtuais/
+-rw-r--r-- 1 roseo 197609    212 jan 27 11:24  callbacks.js
+-rw-r--r-- 1 roseo 197609    212 jan 28 15:00  closure.js
+-rw-r--r-- 1 roseo 197609    320 jan 27 10:21  convertendo-dados.js
+-rw-r--r-- 1 roseo 197609    327 jan 29 09:01  desestruturacao.js
+-rw-r--r-- 1 roseo 197609    129 jan 28 19:06  for-in.js
+-rw-r--r-- 1 roseo 197609    117 jan 28 19:12  for-of.js
+-rw-r--r-- 1 roseo 197609   1228 jan 26 18:15  funcao.js
+-rw-r--r-- 1 roseo 197609    423 fev  3 14:44  function.js
+-rw-r--r-- 1 roseo 197609    279 jan 27 01:36  json.js
+-rw-r--r-- 1 roseo 197609    456 jan 26 23:58  loop.js
+-rw-r--r-- 1 roseo 197609    700 jan 27 01:12  loop-while.js
+-rw-r--r-- 1 roseo 197609    423 jan 28 19:38  objeto-date.js
+-rw-r--r-- 1 roseo 197609    502 jan 26 00:10  operacoes.js
+-rw-r--r-- 1 roseo 197609    502 fev  3 14:53  pets.json
+-rw-r--r-- 1 roseo 197609    651 jan 29 09:49  spreadOperator.js
+-rw-r--r-- 1 roseo 197609    731 jan 27 09:14  string.js
+-rw-r--r-- 1 roseo 197609   3926 jan 30 15:08  test.js
+-rw-r--r-- 1 roseo 197609    900 jan 21 20:43  tiposDeDados.js
+-rw-r--r-- 1 roseo 197609    244 jan 26 19:54  validacoes-if.js
+-rw-r--r-- 1 roseo 197609    341 jan 26 20:47  validacoes-ii.js
+-rw-r--r-- 1 roseo 197609     62 jan 21 19:24  variaveis.js
+-rw-r--r-- 1 roseo 197609    208 jan 21 19:32  variaveis2.js
+-rw-r--r-- 1 roseo 197609     86 jan 21 19:57  variaveisIII.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/Javascript
+$
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/Javascript
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/Javascript
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/Javascript
+$ cd ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ ls -la
+total 20
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ./
+drwxr-xr-x 1 roseo 197609 0 fev  3 09:07 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 14:49 AulaGithub/
+drwxr-xr-x 1 roseo 197609 0 fev  3 15:16 Javascript/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ pwd
+/c/Users/roseo/Desktop/DH
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ ls -la
+total 20
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ./
+drwxr-xr-x 1 roseo 197609 0 fev  3 09:07 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 14:49 AulaGithub/
+drwxr-xr-x 1 roseo 197609 0 fev  3 15:16 Javascript/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ cd AulaGithub/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -l
+total 4
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+-rw-r--r-- 1 roseo 197609 0 fev  5 14:49 teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ rm teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -la
+total 8
+drwxr-xr-x 1 roseo 197609 0 fev  5 14:56 ./
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ../
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ mkdir AulaPresencial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd AulaPresencial/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ touch index.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ echo Sergio
+Sergio
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ echo $PATH
+/c/Users/roseo/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/bin:/mingw64/bin:/usr/bin:/c/Users/roseo/bin:/c/Program Files (x86)/Intel/iCLS Client:/c/Program Files/Intel/iCLS Client:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files (x86)/Calibre2:/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT:/c/Program Files/Intel/Intel(R) Management Engine Components/IPT:/c/Python37:/c/Python37/Scripts":/c/Program Files (x86)/Yarn/bin:/c/ProgramData/chocolatey/bin:/c/Program Files/nodejs:/c/Program Files/Calibre2:/cmd:/c/Users/roseo/AppData/Local/Programs/Python/Python38-32/Scripts:/c/Users/roseo/AppData/Local/Programs/Python/Python38-32:/c/Ruby26-x64/bin:/c/Users/roseo/AppData/Local/Programs/Python/Python37-32/Scripts:/c/Users/roseo/AppData/Local/Programs/Python/Python37-32:/c/Users/roseo/AppData/Local/Microsoft/WindowsApps:/c/Program Files/JetBrains/PyCharm Community Edition 2019.1.3/bin:/c/Users/roseo/AppData/Local/Programs/Microsoft VS Code/bin:/c/sqlite:/c/Users/roseo/AppData/Local/Yarn/bin:/c/Users/roseo/AppData/Roaming/npm:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ echo "Olá Mundo" > ola.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ cat ola.txt
+Olá Mundo
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ vi ola.txt
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ ls ola.txt
+ola.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ ls > listaDeArquivos.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ cat listaDeArquivos.txt
+index.js
+listaDeArquivos.txt
+ola.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ ls -la
+total 10
+drwxr-xr-x 1 roseo 197609  0 fev  5 15:02 ./
+drwxr-xr-x 1 roseo 197609  0 fev  5 14:57 ../
+-rw-r--r-- 1 roseo 197609  0 fev  5 14:57 index.js
+-rw-r--r-- 1 roseo 197609 37 fev  5 15:02 listaDeArquivos.txt
+-rw-r--r-- 1 roseo 197609 11 fev  5 14:58 ola.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ mkdir Rose
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ cd Rose/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ mkdir assets
+m
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ mkdir js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ touch index.html
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -la
+total 4
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 ./
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ cd assets/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/assets
+$ mkdir css
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/assets
+$ mkdir img
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/assets
+$ ls -la
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 ./
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 css/
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 img/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/assets
+$ cd ..
+l
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls
+assets/  index.html  js/
+l
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls-l
+bash: ls-l: command not found
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ cd js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ touch index.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ touch main.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ ls -l
+total 0
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:07 index.js
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:08 main.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+ls
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ ls - la
+ls: cannot access '-': No such file or directory
+ls: cannot access 'la': No such file or directory
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ ls -la
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:08 ./
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 ../
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:07 index.js
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:08 main.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ touch teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ ls -la
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 ./
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 ../
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:07 index.js
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:08 main.js
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:15 teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ mv teste ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ ls -l
+total 0
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:07 index.js
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:08 main.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/js
+$ cd ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:15 teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ echo $PATH
+/c/Users/roseo/bin:/mingw64/bin:/usr/local/bin:/usr/bin:/bin:/mingw64/bin:/usr/bin:/c/Users/roseo/bin:/c/Program Files (x86)/Intel/iCLS Client:/c/Program Files/Intel/iCLS Client:/c/Windows/system32:/c/Windows:/c/Windows/System32/Wbem:/c/Windows/System32/WindowsPowerShell/v1.0:/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/c/WINDOWS/system32:/c/WINDOWS:/c/WINDOWS/System32/Wbem:/c/WINDOWS/System32/WindowsPowerShell/v1.0:/c/WINDOWS/System32/OpenSSH:/c/Program Files (x86)/Calibre2:/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/DAL:/c/Program Files/Intel/Intel(R) Management Engine Components/DAL:/c/Program Files (x86)/Intel/Intel(R) Management Engine Components/IPT:/c/Program Files/Intel/Intel(R) Management Engine Components/IPT:/c/Python37:/c/Python37/Scripts":/c/Program Files (x86)/Yarn/bin:/c/ProgramData/chocolatey/bin:/c/Program Files/nodejs:/c/Program Files/Calibre2:/cmd:/c/Users/roseo/AppData/Local/Programs/Python/Python38-32/Scripts:/c/Users/roseo/AppData/Local/Programs/Python/Python38-32:/c/Ruby26-x64/bin:/c/Users/roseo/AppData/Local/Programs/Python/Python37-32/Scripts:/c/Users/roseo/AppData/Local/Programs/Python/Python37-32:/c/Users/roseo/AppData/Local/Microsoft/WindowsApps:/c/Program Files/JetBrains/PyCharm Community Edition 2019.1.3/bin:/c/Users/roseo/AppData/Local/Programs/Microsoft VS Code/bin:/c/sqlite:/c/Users/roseo/AppData/Local/Yarn/bin:/c/Users/roseo/AppData/Roaming/npm:/usr/bin/vendor_perl:/usr/bin/core_perl
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls
+assets/  index.html  js/  teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:15 teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ mv teste ./assets/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:19 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ cd assets/
+l
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/assets
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 css/
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 img/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:15 teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/assets
+$ mv teste ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/assets
+$ ls
+css/  img/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/assets
+$ cd ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls
+assets/  index.html  js/  teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:15 teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ rm teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls
+assets/  index.html  js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ mkdir teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:21 teste/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ rm -r teste/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l]
+ls: unknown option -- ]
+Try 'ls --help' for more information.
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ man rm
+bash: man: command not found
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+p
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+wd
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ mkdir teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ cd teste/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+$ ls -l
+total 0
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+$ touch teste.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+$ cd ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ rm -r teste/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ mkdir teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ cd teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+$ echo "ola" > teste.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+$ cat teste.txt
+ola
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+$ ls -la
+total 1
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:24 ./
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:23 ../
+-rw-r--r-- 1 roseo 197609 4 fev  5 15:24 teste.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+$ cat teste.txt
+ola
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose/teste
+$ cd ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ rm -r teste/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l assets/
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 css/
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:07 img/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -R
+.:
+assets/  index.html  js/
+
+./assets:
+css/  img/
+
+./assets/css:
+
+./assets/img:
+
+./js:
+index.js  main.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -r
+js/  index.html  assets/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls
+assets/  index.html  js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ code teste.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ code .
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ touch main.css
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ mv ./main.css assets/css/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:15 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l assets/css/
+total 0
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:35 main.css
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ touch ./js/foto.jpg
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -R
+.:
+assets/  index.html  js/
+
+./assets:
+css/  img/
+
+./assets/css:
+main.css
+
+./assets/img:
+
+./js:
+foto.jpg  index.js  main.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ mv ./js/foto.jpg ./assets/img/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ touch teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:38 js/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:42 teste
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ file teste
+teste: empty
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ touch testeee.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ file testeee.txt
+testeee.txt: empty
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$
+g
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ git --version
+git version 2.25.0.windows.1
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ git config --list
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+core.autocrlf=true
+core.fscache=true
+core.symlinks=true
+credential.helper=manager
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Rose Oyakawa
+user.email=rose.oyakawa@gmail.com
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -la
+total 4
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:42 ./
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:38 js/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:42 teste
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:42 testeee.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ cd ../..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -la
+total 12
+drwxr-xr-x 1 roseo 197609 0 fev  5 14:57 ./
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 AulaPresencial/
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ ls -la
+total 20
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ./
+drwxr-xr-x 1 roseo 197609 0 fev  3 09:07 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 14:57 AulaGithub/
+drwxr-xr-x 1 roseo 197609 0 fev  3 15:16 Javascript/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ cd AulaGithubAulaGithub
+bash: cd: AulaGithubAulaGithub: No such file or directory
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH
+$ cd AulaGithub
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ pwd
+/c/Users/roseo/Desktop/DH/AulaGithub
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -l
+total 8
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 AulaPresencial/
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd AulaPresencial/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ ls -l
+total 2
+-rw-r--r-- 1 roseo 197609  0 fev  5 14:57 index.js
+-rw-r--r-- 1 roseo 197609 37 fev  5 15:02 listaDeArquivos.txt
+-rw-r--r-- 1 roseo 197609 11 fev  5 14:58 ola.txt
+drwxr-xr-x 1 roseo 197609  0 fev  5 15:42 Rose/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ cd ..
+c
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd DH
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ ls -la
+total 14
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:16 ./
+drwxr-xr-x 1 roseo 197609   0 fev  5 14:57 ../
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:19 .git/
+-rw-r--r-- 1 roseo 197609   0 fev  3 10:16 app.js
+-rw-r--r-- 1 roseo 197609 222 fev  3 10:15 arrow.js
+-rw-r--r-- 1 roseo 197609 247 fev  3 10:15 assincronismo.js
+-rw-r--r-- 1 roseo 197609   0 fev  3 10:15 testeGit.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ cd ..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd AulaPresencial/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ ls -l
+total 2
+-rw-r--r-- 1 roseo 197609  0 fev  5 14:57 index.js
+-rw-r--r-- 1 roseo 197609 37 fev  5 15:02 listaDeArquivos.txt
+-rw-r--r-- 1 roseo 197609 11 fev  5 14:58 ola.txt
+drwxr-xr-x 1 roseo 197609  0 fev  5 15:42 Rose/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial
+$ cd Rose
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:38 js/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:42 teste
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:42 testeee.txt
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ rm tes*
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:38 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ ls -la
+total 4
+drwxr-xr-x 1 roseo 197609 0 fev  5 16:26 ./
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:38 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose
+$ git init
+Initialized empty Git repository in C:/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose/.git/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:38 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ ls -la
+total 8
+drwxr-xr-x 1 roseo 197609 0 fev  5 16:26 ./
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 16:26 .git/
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:38 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        assets/
+        index.html
+        js/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git add index.html
+assets/     index.html  js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git add index.html
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   index.html
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        assets/
+        js/
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git add .
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   assets/css/main.css
+        new file:   assets/img/foto.jpg
+        new file:   index.html
+        new file:   js/index.js
+        new file:   js/main.js
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git commit
+Aborting commit due to empty commit message.
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git commit -m "commit inicial"
+[master (root-commit) 9628eab] commit inicial
+ 5 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 assets/css/main.css
+ create mode 100644 assets/img/foto.jpg
+ create mode 100644 index.html
+ create mode 100644 js/index.js
+ create mode 100644 js/main.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ cd ../..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -la
+total 12
+drwxr-xr-x 1 roseo 197609 0 fev  5 14:57 ./
+drwxr-xr-x 1 roseo 197609 0 jan 31 22:54 ../
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 AulaPresencial/
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd -
+/c/Users/roseo/Desktop/DH/AulaGithub/AulaPresencial/Rose
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ cd ../..
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -l
+total 8
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 AulaPresencial/
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd DH
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ ls -la
+total 14
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:16 ./
+drwxr-xr-x 1 roseo 197609   0 fev  5 14:57 ../
+drwxr-xr-x 1 roseo 197609   0 fev  3 10:19 .git/
+-rw-r--r-- 1 roseo 197609   0 fev  3 10:16 app.js
+-rw-r--r-- 1 roseo 197609 222 fev  3 10:15 arrow.js
+-rw-r--r-- 1 roseo 197609 247 fev  3 10:15 assincronismo.js
+-rw-r--r-- 1 roseo 197609   0 fev  3 10:15 testeGit.js
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/DH (master)
+$ cd -
+/c/Users/roseo/Desktop/DH/AulaGithub
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ ls -l
+total 8
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:06 AulaPresencial/
+drwxr-xr-x 1 roseo 197609 0 fev  3 10:16 DH/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub
+$ cd AulaPresencial/Rose/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ ls -l
+total 0
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 0 fev  5 15:06 index.html
+drwxr-xr-x 1 roseo 197609 0 fev  5 15:38 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git config --list
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+core.autocrlf=true
+core.fscache=true
+core.symlinks=true
+credential.helper=manager
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=Rose Oyakawa
+user.email=rose.oyakawa@gmail.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ code .
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.html
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git add .
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git add --all
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   index.html
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ ls -la
+total 9
+drwxr-xr-x 1 roseo 197609   0 fev  5 16:26 ./
+drwxr-xr-x 1 roseo 197609   0 fev  5 15:06 ../
+drwxr-xr-x 1 roseo 197609   0 fev  5 16:42 .git/
+drwxr-xr-x 1 roseo 197609   0 fev  5 15:20 assets/
+-rw-r--r-- 1 roseo 197609 332 fev  5 16:39 index.html
+drwxr-xr-x 1 roseo 197609   0 fev  5 15:38 js/
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git commit -m "Alterado o layout da pagina"
+[master 1eac83b] Alterado o layout da pagina
+ 1 file changed, 14 insertions(+)
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git log
+commit 1eac83b05c188403469e41ecf352e338b40c917c (HEAD -> master)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:44:48 2020 -0300
+
+    Alterado o layout da pagina
+
+commit 9628eabe3f3ad822fb8212032ef3fc45bf87bb73
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:31:39 2020 -0300
+
+    commit inicial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   js/index.js
+        modified:   js/main.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git commit -a -m "alterações no js"
+[master 45d2637] alterações no js
+ 2 files changed, 2 insertions(+)
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git log
+commit 45d2637eeef5c2dae257ef1ecf8d7c5402251ee5 (HEAD -> master)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:53:29 2020 -0300
+
+    alterações no js
+
+commit 1eac83b05c188403469e41ecf352e338b40c917c
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:44:48 2020 -0300
+
+    Alterado o layout da pagina
+
+commit 9628eabe3f3ad822fb8212032ef3fc45bf87bb73
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:31:39 2020 -0300
+
+    commit inicial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git checkout 1eac83
+Note: switching to '1eac83'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 1eac83b Alterado o layout da pagina
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$
+git
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$ git log
+commit 1eac83b05c188403469e41ecf352e338b40c917c (HEAD)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:44:48 2020 -0300
+
+    Alterado o layout da pagina
+
+commit 9628eabe3f3ad822fb8212032ef3fc45bf87bb73
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:31:39 2020 -0300
+
+    commit inicial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$ git checkout master
+Previous HEAD position was 1eac83b Alterado o layout da pagina
+Switched to branch 'master'
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git log
+commit 45d2637eeef5c2dae257ef1ecf8d7c5402251ee5 (HEAD -> master)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:53:29 2020 -0300
+
+    alterações no js
+
+commit 1eac83b05c188403469e41ecf352e338b40c917c
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:44:48 2020 -0300
+
+    Alterado o layout da pagina
+
+commit 9628eabe3f3ad822fb8212032ef3fc45bf87bb73
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:31:39 2020 -0300
+
+    commit inicial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git log --oneline
+45d2637 (HEAD -> master) alterações no js
+1eac83b Alterado o layout da pagina
+9628eab commit inicial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git checkout 1eac83b
+Note: switching to '1eac83b'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+HEAD is now at 1eac83b Alterado o layout da pagina
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$
+gi
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$ git log
+commit 1eac83b05c188403469e41ecf352e338b40c917c (HEAD)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:44:48 2020 -0300
+
+    Alterado o layout da pagina
+
+commit 9628eabe3f3ad822fb8212032ef3fc45bf87bb73
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:31:39 2020 -0300
+
+    commit inicial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$ git status
+HEAD detached at 1eac83b
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   js/main.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$ git checkout master
+error: Your local changes to the following files would be overwritten by checkout:
+        js/main.js
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$ git checkout -f
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$ git status
+HEAD detached at 1eac83b
+nothing to commit, working tree clean
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$ git status
+HEAD detached at 1eac83b
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   assets/css/main.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((1eac83b...))
+$ git commit -a -m "Alterado o meu css"
+[detached HEAD a5a5c8a] Alterado o meu css
+ 1 file changed, 3 insertions(+)
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((a5a5c8a...))
+$ git log
+commit a5a5c8a6dfaf988b05b29ae2c80c6d5f6b4f4bd5 (HEAD)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 17:13:56 2020 -0300
+
+    Alterado o meu css
+
+commit 1eac83b05c188403469e41ecf352e338b40c917c
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:44:48 2020 -0300
+
+    Alterado o layout da pagina
+
+commit 9628eabe3f3ad822fb8212032ef3fc45bf87bb73
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:31:39 2020 -0300
+
+    commit inicial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((a5a5c8a...))
+$ git log n1
+fatal: ambiguous argument 'n1': unknown revision or path not in the working tree.
+Use '--' to separate paths from revisions, like this:
+'git <command> [<revision>...] -- [<file>...]'
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((a5a5c8a...))
+$ git branch bugfix
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose ((a5a5c8a...))
+$ git checkout bugfix
+Switched to branch 'bugfix'
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$ git log
+commit a5a5c8a6dfaf988b05b29ae2c80c6d5f6b4f4bd5 (HEAD -> bugfix)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 17:13:56 2020 -0300
+
+    Alterado o meu css
+
+commit 1eac83b05c188403469e41ecf352e338b40c917c
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:44:48 2020 -0300
+
+    Alterado o layout da pagina
+
+commit 9628eabe3f3ad822fb8212032ef3fc45bf87bb73
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:31:39 2020 -0300
+
+    commit inicial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$ git branch
+* bugfix
+  master
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$ git remote add origin https://github.com/ahakawa/AulaGit.git
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$ git push -u origin master^C
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$ git status
+On branch bugfix
+nothing to commit, working tree clean
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (bugfix)
+$ git checkout master
+Switched to branch 'master'
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git push -u origin master^C
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git log
+commit 45d2637eeef5c2dae257ef1ecf8d7c5402251ee5 (HEAD -> master)
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:53:29 2020 -0300
+
+    alterações no js
+
+commit 1eac83b05c188403469e41ecf352e338b40c917c
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:44:48 2020 -0300
+
+    Alterado o layout da pagina
+
+commit 9628eabe3f3ad822fb8212032ef3fc45bf87bb73
+Author: Rose Oyakawa <rose.oyakawa@gmail.com>
+Date:   Wed Feb 5 16:31:39 2020 -0300
+
+    commit inicial
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git push -u origin master
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (10/10), done.
+Writing objects: 100% (15/15), 1.33 KiB | 272.00 KiB/s, done.
+Total 15 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), done.
+To https://github.com/ahakawa/AulaGit.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   assets/css/main.css
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git add -all
+error: did you mean `--all` (with two dashes ?)
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git add --all
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git commit -m "novo css"
+[master fbb459a] novo css
+ 1 file changed, 1 insertion(+)
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+
+nothing to commit, working tree clean
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git push
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (5/5), 435 bytes | 145.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0)
+To https://github.com/ahakawa/AulaGit.git
+   45d2637..fbb459a  master -> master
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git --help
+usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone             Clone a repository into a new directory
+   init              Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add               Add file contents to the index
+   mv                Move or rename a file, a directory, or a symlink
+   restore           Restore working tree files
+   rm                Remove files from the working tree and from the index
+   sparse-checkout   Initialize and modify the sparse-checkout
+
+examine the history and state (see also: git help revisions)
+   bisect            Use binary search to find the commit that introduced a bug
+   diff              Show changes between commits, commit and working tree, etc
+   grep              Print lines matching a pattern
+   log               Show commit logs
+   show              Show various types of objects
+   status            Show the working tree status
+
+grow, mark and tweak your common history
+   branch            List, create, or delete branches
+   commit            Record changes to the repository
+   merge             Join two or more development histories together
+   rebase            Reapply commits on top of another base tip
+   reset             Reset current HEAD to the specified state
+   switch            Switch branches
+   tag               Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch             Download objects and refs from another repository
+   pull              Fetch from and integrate with another repository or a local branch
+   push              Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git --help puxh
+
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git push bugfix
+fatal: 'bugfix' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git push origin bugfix
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (5/5), 454 bytes | 113.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0)
+remote:
+remote: Create a pull request for 'bugfix' on GitHub by visiting:
+remote:      https://github.com/ahakawa/AulaGit/pull/new/bugfix
+remote:
+To https://github.com/ahakawa/AulaGit.git
+ * [new branch]      bugfix -> bugfix
+
+roseo@ROSE-DELLNOVO MINGW64 ~/Desktop/DH/AulaGithub/AulaPresencial/Rose (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean

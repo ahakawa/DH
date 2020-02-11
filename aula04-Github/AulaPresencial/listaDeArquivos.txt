@@ -1,0 +1,3 @@
+index.js
+listaDeArquivos.txt
+ola.txt
