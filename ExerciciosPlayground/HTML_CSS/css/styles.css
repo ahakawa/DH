@@ -1,0 +1,27 @@
+body {
+    font-family: Arial;
+   /* background-color: #a2c8d1; */
+   background-image: url('./image/digital-house.png');
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+p {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: justify;
+    line-height: 20px; /*Colocar um valor maior que o tamanho da fonte para não sobrepor */
+    color: rgba(255, 0, 0, 0.4)
+    /* opacidade de 0% visível até 1 que é 100% visível, colocar a letra 'a' após rga, ficando rgba de alfa, colocando uma vírgula após os 3 valores do rgb*/
+}
+
+h2 {
+    font-style: italic;
+    text-align: center;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;  
+}
+

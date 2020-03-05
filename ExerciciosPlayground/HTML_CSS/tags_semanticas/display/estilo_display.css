@@ -1,0 +1,24 @@
+div.caixa1 {
+    background-color: orange;
+    border: 3px dotted black;
+}
+
+div.caixa2 {
+    background-color: blueviolet;
+    border: 3px solid yellow;
+}
+
+div.caixa3 {
+    background-color: crimson;
+    border: 3px dashed blue;
+}
+
+div {
+    /* display: inline-block; //inline-block ocupa somente o espaço do conteúdo */
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: 30px ; /* colocando auto para as laterais ficará centralizado*/
+    padding: 40px; /* padding é o espaçamento do conteúdo interno */ 
+    
+}

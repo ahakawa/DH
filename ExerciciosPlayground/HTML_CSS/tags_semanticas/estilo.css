@@ -1,0 +1,67 @@
+body {
+    font-family: 'Arial';
+}
+
+
+/* pseudo-seletores */
+
+input {
+    border-color: blue;
+}
+input:hover {
+    background-color: orangered;
+}
+
+input:focus {
+    width: 400px;
+}
+
+p:hover {
+    color: orangered;
+}
+
+/* p:last-of-type  para pegar o último paragrafo */
+
+p:nth-child(even) { /* colocar odd pra pegar as linhas ímpares*/
+    background-color: gray;
+}
+header {
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 10px;
+}
+
+main {
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 10px;
+    /* height: 350px; */
+}
+footer {
+    border: 3px solid gray;
+    padding: 30px;
+    margin: 10px;
+}
+
+section {
+    border-top: 2px dotted gray;
+    border-bottom: 2px dotted gray;
+}
+
+/* Caixa pai é o section noticias qdo adicionamos float a noticias, então é onde devemos colocar "overflow:hidden" */
+section.noticias {
+    overflow: hidden;
+}
+
+article {
+    padding: 20px;
+    margin: 20px 0;
+    background-color: #ffa600ad;
+    /* Adicionando float*/
+    float: left;
+    width: 30%;
+}
+
+span {
+    background-color: purple;
+}
