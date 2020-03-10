@@ -65,3 +65,10 @@ article {
 span {
     background-color: purple;
 }
+
+@media(max-width: 1301px){
+    article{
+        width: 100%;
+    }
+
+}

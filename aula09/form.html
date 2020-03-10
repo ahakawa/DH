@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <form action="" method="POST">
+        <div>
+            <label for="nome">Nome</label>
+            <input type="text" name="nome" id="nome" placeholder="Digite seu nome" value="Janaína" disabled="disabled">
+        </div>
+        <div>
+            <label for="senha">Senha</label>
+            <input type="password" name="senha" id="senha" placeholder="Digite sua senha" value="supersecreta">
+        </div>
+        <div>
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email" placeholder="Digite seu email" required>
+        </div>
+        <div>
+            <input type="checkbox" name="aceite" id="aceite" required value="aceitou">
+            <label for="aceite">Li e aceito os <a href="#">termos de uso</a></label> <!-- O for do label está vinculado com o id do input -->
+        </div>
+        <div>
+            <label for="generoM">Masculino</label>
+            <input type="radio" name="genero" value="M" id="generoM"> <!--Aqui o campo name dos campos de input é que faz a associação entre eles e o campo value é o que os difere -->
+        </div>
+        <div>
+            <label for="generoF">Feminino</label><!--Aqui o campo for do campos label é que faz o nome Feminino ser selecionável a outra opção seria colocar a tag input dentro da tag label -->
+        </div>
+            <input type="radio" name="genero" value="F" id="generoF">
+        </div>
+        <div>
+            <label for="mensagem">Mensagem</label> 
+            <textarea name="mensagem" id="mensagem" cols="30" rows="10"></textarea>
+        </div>
+        <div>
+            <label for="pais">País</label> 
+            <select name="pais" id="pais">
+                <optgroup label="América Latina">
+                    <option value="br">Brasil</option>
+                    <option value="ar">Argentina</option>
+                </optgroup>
+                <optgroup label="Europa">
+                    <option value="es">Espanha</option>
+                    <option value="pt">Portugal</option>
+                </optgroup>
+            </select>
+        </div>
+        <select name="hobbies" id="hobbies" multiple>
+                <option value="0">Dança</option>
+                <option value="1">Programação</option>
+                <option value="2">Inteligência Artificial</option>
+                <option value="3">Redes Neurais</option>
+                <option value="4">Cálculo diferencial</option>
+                <option value="5">Teoria dos Conjuntos</option>
+        </select>
+        <input type="hidden" name="infoEscondida" value="sim">
+        <div>
+            <label for="foto"> 
+            <input type="file" name="foto" id="foto" accept=".jpg, .jpeg, .png"><!-- cria botão para selecionar o arquivo-->
+            </label>
+        <!-- <button type="submit">Enviar</button> -->
+        <input type="submit" name="botao" value="Enviar"> <!-- desta forma o botão é enviado também -->
+    </form>    
+</body>
+</html>
