@@ -1,0 +1,19 @@
+article{
+    background-color: #cccccc;
+    color: #fff;
+}
+
+ul{
+    list-style: none;
+
+}
+
+h1 {
+    color: yellowgreen
+}
+
+button.btn.btn-primary{
+    background-color: yellowgreen;
+    border-color: yellowgreen; 
+    margin: 40px 0;
+}
